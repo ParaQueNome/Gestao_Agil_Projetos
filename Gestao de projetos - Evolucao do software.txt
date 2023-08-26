@@ -1,0 +1,32 @@
+Gestão Agil de Projetos:
+	Evolução dos Softwares:
+		
+		1903 -> Administração Cientifica;
+		1916 -> Teoria classica da administração;
+		1932 -> Teoria das relações humabas;
+		1940 -> Teoria burocratica;
+		1947 -> Teoria estruturalista;
+		1951 -> Teoria dos Sistemas;
+		
+		Teoria Sistemica da Administração:
+			Conjunto de elementos interligados para formar um todo.
+			
+			Aplicação de metodos matematicos von Neumann;
+		Teoria dos Sistemas: 
+			Entrada de Dados -> Processamento(Classificar, Filtrar, Organizar) -> Saída(Informações) = Resultado;
+			
+			Sistemas de Informações:
+				Hardware -> Dispositivos físicos;
+				Software -> Parte processual, programas;
+				Redes -> Interligação de computadores. Internet. Globalização;
+				Banco de Dados -> Big Data;
+				Peopleware -> Recursos humanos.
+				
+			Organização empresarial -> Sistemas Transacionais, Sistemas Gerenciais, Sistemas Estratégicos;
+			
+			Software:
+				Gerencia e controla as atividades do computador, por isso é chamado de sistema operacional;
+				Aplicação;
+				
+				
+				
