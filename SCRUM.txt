@@ -1,0 +1,87 @@
+Scrum:
+	Metodologia de entrega contínua de projetos
+	
+	Requisitos:
+		Product Backlog;
+		Spring Backlog;
+		Revisão/Retrospectiva;
+		Sprint.
+		
+	Trello:
+		Funcionalidades do sistema em um cartão;
+		Reunião de priorização;
+		
+		Decidir quais tarefas priorizar para a entrega;
+		
+		Criar coisas a se fazer;
+		
+		Quais etapas estão em andamento;
+		
+		Quais foram finalizadas;
+		
+		Adicionar tela de revisão.
+		
+
+	Guia do SCRUM:
+		Boas práticas de desenvolvimento e gestão ágil com SCRUM:
+			Estrutura:
+				Principios;
+				Aspectos;
+				Processos.
+		Pilares do SCRUM:
+			Transparência:
+				Controle de processos empíricos -> Experimento:
+					Os aspectos que afetam o resultado devem ser visíveis e conhecidos aos que controlam o resultado;
+					
+			Inspeção:
+				Os processos devem ser totalmente inspecionados com uma frequência suficiente para que as variações
+				possam ser detectadas.
+				 Feedback constante;
+				 Criar backlog priorizado do produto;
+				 Conduzir o planejamento da release.
+				 
+			Adaptação:
+				Se durante a inspeção for determinada uma variação fora dos limites aceitáveis em um ou
+				mais aspectos do processo, e que o produto resultante será inaceitável, o processo ou material
+				deverá ser ajustado.
+				Reuniões diárias;
+			
+		Coragem;
+		Foco -> Foco no trabalho da Sprint;
+		Comprometimento -> Compromissao em alcançar os objetivos o Time SCRUM;
+		Respeito -> Respeito mútuo;
+		Abertura-> Aberto a mudanças;
+		
+		Principios Do SCRUM:
+			Controle de processos empíricos:
+				Declaração da visão do Projeto vista por todos;
+				Backlog Priorizado do Produto aberto;
+				Cronograma de Planejamento da Release;
+				Scrumboard e Grafico Burndow para visibilidade clara sobre progresso dos times;
+				Kanban:
+					Painel de inspeção do Scrum.
+					Validar o Sprint;
+				Reuniões diárias
+			Auto-organização:
+				Focado nos colaboradores atuais de uma organização;
+				Entregam significativamente um maior valor quando são auto-organizados;
+				Resulta em times mais satisfeitos;
+				Ambiente criativo;
+			Colaboração:
+				
+				
+			Time-boxing:
+				Tempo em que uma execução é determinada. Limite de tempo para a entrega.
+				Sprint:
+					Iteração do time-boxed.
+					Iterativo: Incrementa constantemente.
+					
+			
+		
+			
+
+
+Referências:
+	SBOK, análogo ao PMBOK.
+	SCRUMstudy.
+	
