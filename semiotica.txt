@@ -1,0 +1,38 @@
+
+
+Semiótica:
+	A semiótica inclui o estudo de:
+		sinais e processos de signos;
+		indicação;
+		designação;
+		semelhança;
+		analogia;
+		alegoria;
+		metonimia;
+		metáfora;
+		simbolismo;
+		significação;
+		comunicação.
+		
+		
+		Considera que o sistema comunica ao usuário a visão do designer;
+		
+		Classificação de Signos na Engenharia Semiótica:
+			Tríade;
+		
+		Signos metalinguisticos: Signos que explicam outros signos;
+		
+		Design como comunicação:
+			Modelo de espaço de comunicação de Jakobson.
+		
+		
+		MAC -> Avalia como a mensagem está sendo recebida e entendida pelo usuário:
+			Usuario executa tarefas previstas pelo avaliador;
+			A interação é gravada para posterior análise;
+			A partir das rupturas de comunicação, avaliador analisa os problemas de comunicação;
+		MIS -> Avalia a mensagem enviada pelo designer:
+			Explorar se há a possibilidade de usuarios atribuírem significados contraditorios ou ambiguos nos signos que constituem as 3 mensagens
+			Pacotes de itens que misturam elementos gráficos;
+			Pode acarretar em inconsistencias na interface do usuario;
+			
+		
